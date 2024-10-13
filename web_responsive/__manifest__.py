@@ -21,12 +21,9 @@
     "excludes": ["web_enterprise"],
     "assets": {
         "web.assets_backend": [
-            "/web_responsive/static/src/components/ui_context.esm.js",
             "/web_responsive/static/src/components/apps_menu/apps_menu.scss",
             "/web_responsive/static/src/components/apps_menu/apps_menu.esm.js",
-            "/web_responsive/static/src/components/hotkey/hotkey.scss",
             "/web_responsive/static/src/components/apps_menu/apps_menu.xml",
-            "/web_responsive/static/src/components/hotkey/hotkey.xml",
         ],
     },
     "sequence": 1,
